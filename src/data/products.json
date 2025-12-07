@@ -1,0 +1,227 @@
+[
+{
+  "id": 1,
+  "name": "Gucci",
+  "category": "Fragrance",
+  "price":1000,
+  "imageURL": "https://fimgs.net/images/perfume/o.38345.jpg"
+},
+{
+  "id": 2,
+  "name": "Chanel",
+  "category": "Fragrance",
+  "price":1200,
+  "imageURL": "https://www.onegirl-oneworld.com/wp-content/uploads/2022/01/best-chanel-perfume.jpeg"
+},
+{
+  "id": 3,
+  "name": "Louis Vuitton",
+  "category": "Fragrance",
+  "price":2000,
+  "imageURL": "https://i.pinimg.com/originals/85/2e/1f/852e1fecf42060fe8005e35f771b1820.jpg"
+},
+{
+  "id": 4,
+  "name": "Paradox",
+  "category": "Fragrance",
+  "price":100,
+  "imageURL": "https://fragrancehouse.co.uk/wp-content/uploads/2022/08/Prada-Paradoxe-Eau-de-Parfum-Ad-6.jpg"
+},
+{
+  "id": 5,
+  "name": "Burberry",
+  "category": "Fragrance",
+  "price":1100,
+  "imageURL": "https://i5.walmartimages.com/asr/0a08a41a-9f4a-47dc-87b5-5d11bf14a631_1.c481046f0abd88eb824964d71fc7d2f9.jpeg"
+},
+{
+  "id": 6,
+  "name": "Lancome",
+  "category": "Fragrance",
+  "price":1990,
+  "imageURL": "https://perfumesociety.org/wp-content/uploads/2014/05/LVEB_EDT_high-res1.jpg"
+},
+{
+  "id": 7,
+  "name": "Lanvin",
+  "category": "Fragrance",
+  "price":10000,
+  "imageURL": "https://imgcdn.stablediffusionweb.com/2024/4/16/f37db8ca-66db-4c5e-b10a-f6a7f4fa4b0c.jpg"
+},
+{
+  "id": 8,
+  "name": "Poison",
+  "category": "Fragrance",
+  "price":50000,
+  "imageURL": "https://fimgs.net/images/perfume/o.26207.jpg"
+},
+{
+    "id": 9,
+    "name": "Sunsilk Shampoo",
+    "category": "Hair Care",
+    "price":500,
+    "imageURL": "https://5.imimg.com/data5/SELLER/Default/2023/5/306206172/JG/JO/OO/40237376/sunsilk-shampoo-180ml-mrp-190.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Dove Shampoo",
+    "category": "Hair Care",
+    "price": 300,
+    "imageURL": "https://assets.unileversolutions.com/v1/115843033.png"
+  },
+  {
+    "id": 11,
+    "name": "Clinic Plus",
+    "category": "Hair Care",
+    "price": 13.99,
+    "imageURL": "https://m.media-amazon.com/images/I/51LmmOtr0WL.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Pantene",
+    "category": "Hair Care",
+    "price": 200,
+    "imageURL": "https://i5.walmartimages.com/seo/Pantene-Pro-V-Classic-Clean-Shampoo-12-6-Oz_dc04c845-a1db-4b3e-9ed4-9d0e829d12fe.a2722aea4e028909bf069bcb06f3897c.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Hair and shoulder",
+    "category": "Hair Care",
+    "price":400,
+    "imageURL": "https://assets.tops.co.th/HEADSHOULDERS-HeadShouldersHairandScalpAntiDandruffConditioner300ml-4987176152053-1?$JPEG$"
+  },
+  {
+    "id": 14,
+    "name": "Loreal",
+    "category": "Hair Care",
+    "price": 1000,
+    "imageURL": "https://m.media-amazon.com/images/I/816UeZMogrL.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Tresemme",
+    "category": "Hair Care",
+    "price": 4000,
+    "imageURL": "https://m.media-amazon.com/images/I/71P1NlGSDYL._AC_.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Himalayan samphoo",
+    "category": "Hair Care",
+    "price": 2000,
+    "imageURL": "https://m.media-amazon.com/images/I/51s2BKxROLL._SL1200_.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Cetaphil",
+    "category": "Skin Care",
+    "price": 1000,
+    "imageURL": "https://extranaturecare.com/wp-content/uploads/2021/08/Cetaphil-Moisturizing-Cream-20-oz-2-pack-extra-large-size-B.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Mamaearth",
+    "category": "Skin Care",
+    "price": 2400,
+    "imageURL": "https://m.media-amazon.com/images/I/61ChmXqyWjL._SL1201_.jpg"
+  },
+  {
+    "id": 19,
+    "name": "garnier",
+    "category": "Skin Care",
+    "price": 2600,
+    "imageURL": "https://luxplus.imgix.net/content/product/image/41542-32061-1669797958.jpg?auto=format,compress&w=800&h=800&fill-color=FFFFFF&fill=solid&fit=fillmax"
+  },
+  {
+    "id": 20,
+    "name": "Nivea",
+    "category": "Skin Care",
+    "price": 4000,
+    "imageURL": "https://i5.walmartimages.com/asr/f9cc9047-3eb3-4c69-9100-0a9d747f31fb_1.4e32f8bb744ba41f6ae7662ad9a54416.jpeg"
+  },
+  {
+    "id": 21,
+    "name": "Himalayan herbals",
+    "category": "Skin Care",
+    "price": 1000,
+    "imageURL": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/8/9/8901138835293_newp.jpg.jpg"
+  },
+  {
+    "id": 22,
+    "name": "lorial Paris",
+    "category": "Skin Care",
+    "price": 2499,
+    "imageURL": "https://i5.walmartimages.com/asr/64095438-5a0a-429a-a88a-093059fb0a52.20f998f220efd699ce80417e1f6c348e.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+  },
+  {
+    "id": 23,
+    "name": "Cosrx Advanced snail peptide eye cream",
+    "category": "Skin Care",
+    "price": 3984,
+    "imageURL": "https://wabby.com.bd/wp-content/uploads/2021/06/Cosrx-Advanced-Snail-Peptide-Eye-Cream-.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Forest essentials",
+    "category": "Skin Care",
+    "price": 2576,
+    "imageURL": "https://img.forestessentialsindia.com/pub/media/megamenu/Mens-Care-1.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Matte Lipstick",
+    "category": "Makeup",
+    "price": 999,
+    "imageURL": "https://www.reneecosmetics.in/cdn/shop/files/VeryMatteLipstickCombo_ListingPI_01.jpg?v=1688392446"
+  },
+  {
+    "id": 26,
+    "name": "Liquid Eyeliner",
+    "category": "Makeup",
+    "price": 799,
+    "imageURL": "https://silkycosmetics.com/wp-content/uploads/2017/11/SG-Perfect-Matte-Liq-Eyeliner-01-Matte-Black_Lazada-Images-Post-1.png"
+  },
+  {
+    "id": 27,
+    "name":"Eyeshadow",
+    "category": "Makeup",
+    "price": 899,
+    "imageURL": "https://png.pngtree.com/png-clipart/20230425/original/pngtree-eyeshadow-palette-makeup-eye-makeup-color-png-image_9099962.png"
+  },
+  {
+    "id": 28,
+    "name": "Blush",
+    "category": "Makeup",
+    "price": 786,
+    "imageURL": "https://m.media-amazon.com/images/I/61uN3mlobSL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Primer",
+    "category": "Makeup",
+    "price": 499,
+    "imageURL": "https://www.byrdie.com/thmb/CLUgquAUg8ip7w9aDBYB5-glJ_s=/1400x1400/filters:no_upscale():max_bytes(150000):strip_icc()/e.l.f.HydratingFacePrimer-5c62ebca46e0fb000144282e.jpg"
+  },
+  {
+    "id": 30,
+    "name": "CC cream",
+    "category": "Makeup",
+    "price": 7655,
+    "imageURL": "https://ell.h-cdn.co/assets/17/06/elle-cc-cream-clinique.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Compact Powder",
+    "category": "Makeup",
+    "price": 567,
+    "imageURL": "https://img.freepik.com/premium-photo/compact-makeup-powder-isolated-white-background_153090-339.jpg?w=2000"
+  },
+  {
+    "id": 32,
+    "name": "Setting Spray",
+    "category": "Makeup",
+    "price": 467,
+    "imageURL": "https://www.elfcosmetics.com/dw/image/v2/BBXC_PRD/on/demandware.static/-/Sites-elf-master/default/dw06838b04/2024/PowerGripDewySettingSpray/84759_Open_A_V9_R.png"
+  }
+
+]
